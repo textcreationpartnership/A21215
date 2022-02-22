@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[The knyght of the swanne]</title>
+            <title>Chevalier au cygne. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1522</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21215</idno>
+            <idno type="STC">STC 7571.5</idno>
+            <idno type="STC">ESTC S109653</idno>
+            <idno type="EEBO-CITATION">22328943</idno>
+            <idno type="OCLC">ocm 22328943</idno>
+            <idno type="VID">25374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25374)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 34:27 or 1751:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[The knyght of the swanne]</title>
+                  <title>Chevalier au cygne. English.</title>
+                  <author>Copland, Robert, fl. 1508-1547.</author>
+               </titleStmt>
+               <extent>[4]+ p.   </extent>
+               <publicationStmt>
+                  <publisher>W. de Worde,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>ca. 1522]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title and imprint suggested by STC (2nd ed.).</note>
+                  <note>Translated by Robert Copland. Cf. STC (2nd ed.) and NUC pre-1956 imprints.</note>
+                  <note>Item at reel 34:27 identified as STC 7571.</note>
+                  <note>Imperfect: fragment (t.p. lacking); cropped and stained.</note>
+                  <note>Reproductions of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="fragmentary_text">
+            <pb facs="tcp:25374:1"/>
+            <!-- PDF PAGE 16 -->
+            <pb facs="tcp:25374:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <div type="part">
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the chyrche, And betwene the aultres ma<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſwan<g ref="char:cmbAbbrStroke">̄</g>e therin / &amp; after make to ſay two <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> good &amp; deuoute preeſtes vpon the ſayd aul<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> in the chalyces. Than y<hi rend="sup">t</hi> eche of vs dyſpoſe <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> well &amp; deuoutly ſo y<hi rend="sup">t</hi> we were worthy to pra<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Iheſu cryſt. And I beleue y<hi rend="sup">t</hi> he wyll ſtreto<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> ouer hym / and he ſhall retourne to his four<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Than kynge oryant &amp; Helyas helde her cou<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </p>
+            </div>
+            <div type="part">
+               <head>¶ How quene Beat<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yce made grete Ioye o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap> was retourned to his ryght fourme. Ca. <gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>
+               </head>
+               <head>
+                  <figure/>
+               </head>
+               <pb facs="tcp:25374:2"/>
+               <!-- PDF PAGE 17 -->
+               <p>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> / as it had ben ordeyned. And for to make <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ell and duely ordeyned two aulters and a <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>s ſayd. Than came the noble Helyas to the <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ere he founde his broder the ſwanne / &amp; ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hym. And famylyerly he came to hym / &amp; <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as his good &amp; faythfull broder. And in lyke<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tyme he had conduyted the ſayd Helyas / ſo <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ted hym to the chyrche before y<hi rend="sup">e</hi> crucyfyxe. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ence of y<hi rend="sup">e</hi> kynge / the quene / theyr chyldren <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s he was layde in the bedde betwene y<hi rend="sup">e</hi>. ij. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e as were deuoutly ſayd two maſſes / which <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſayd herde well &amp; deuoutly beynge mekely <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> bothe theyr knees prayenge almyghty god <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e bounte it wolde pleaſe hym to ſhewe his <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> happened that y<hi rend="sup">e</hi> time ordeyned of god was <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſwanne ſholde retourne in his fourme <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ght ſo as the preeſtes conſacred the body of <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e maſſe the ſwanne retourned in to his pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> was a man. And thus tranſwued he aroſe <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Ioynynge his handes / &amp; eſcryed ſayenge. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nke you humbly. Ieſus by his grace yelde <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>t prayers y<hi rend="sup">t</hi> ye haue made for me / for by his <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> delyuered &amp; put fro grete payne. And than <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>kely kyſſed y<hi rend="sup">e</hi> kynge his fader / his moder / &amp; <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>edre &amp; his ſyſter. Than after y<hi rend="sup">e</hi> maſſe were <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ap<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ely rongen / and Tedeum ſonge for Ioye <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> god of his dyuyne vertues. After that were
+<pb facs="tcp:25374:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 17 -->
+                  <gap reason="missing" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+bedde thre fa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e chyldren. The whiche ſhe a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed &amp; ga<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> to ſouke of her owne mylke in ſo grete habundaunce th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they were well and ſubſtauncyally nouryſſhed. And th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> her ſemed that the two fyrſt hadde eche of them a crow<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of fyne golde vpon theyr heedes / but the crowne of y<hi rend="sup">e</hi> th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+Was broken bycauſe another woman than his mo<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> hadde gyuen hym ſouke of her mylke. And at this <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the no<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le ydam awaked of her dreme. Than herde ſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> voyce of an aungel that god hadde ſent her ſaynge, yda<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> god ſendeth the gretynge. Knowe thou for trouthe th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> y<hi rend="sup">u</hi> ſhalt co<g ref="char:cmbAbbrStroke">̄</g>ceyue of thy huſbande thre male chyldre<g ref="char:cmbAbbrStroke">̄</g> whic<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> y<hi rend="sup">u</hi> ſhalte nouryſſhe with thyn owne mylke. And god ſh<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> gyue them his blyſſed benedyccyon. For they ſhall co<g ref="char:cmbAbbrStroke">̄</g>q<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>re the realme of thy holy londe of Iheruſalem / and ſh<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> delyuer the holy ſepulcre of our lorde Iheſu cryſt out o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> puyſſan<g ref="char:cmbAbbrStroke">̄</g>ce &amp; captyuyte of the vnbeleuynge ſarazyns. A<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> therfore gouerne them well. And whan the good yd<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hadde herde theſe tydynges ſhe thanked and prayſed <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſouerayne lorde god of his good aduertyſynge / and of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> grace that he dyd to her. And thus b<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>hrey <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ge ſhe conceyued and chylded thre <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wyte y<hi rend="sup">e</hi> fyrſt Godfrey of Boulyon / theſe <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> and the thyrde Euſtace. The whiche ſhe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ed dylygently. But in a ſolempnyt<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ary<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Boulyon the byſſhop of Lyege / the duke <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uke of Fryſe / the erle of Flaundres / the erle o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> many other grete prynces and myghty barons <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho were <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>here aſſembled for to make a certay<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ment touchy<g ref="char:cmbAbbrStroke">̄</g>ge y<hi rend="sup">e</hi> prouyſyon of ſome affayres y<hi rend="sup">t</hi> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:25374:3"/>
+                  <!-- PDF PAGE 18 -->whiche the <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t yonge Euſtace ſomwhat <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onge <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> y<hi rend="sup">•</hi> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e / wherfore he began to wepe ſo faſte that a woman <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ge one of the nouryces ranne dyligently for to apeaſe <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> / and gaue hym her pappe for to ſouke. And wha<g ref="char:cmbAbbrStroke">̄</g> his <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>er the counteſſe retourned for to vyſyte hym ſhe foun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſayd nouryce the whiche gaue hym to ſouke of her <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ke. Wherfore ſhe was ſo gretely angred and dyſplea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhe ſayd. Ha woman euyll aduyſed what haue ye pre<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>ly done. Now ſhall my ſone Euſtace leſe his noble dy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te for to haue taken of your mylke / wherfore I ought <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to hate you. Alas madame ſayd the nouryce for god<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oue pardon me / for certaynly I wende to haue done <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> becauſe he wepte ſo faſt to thende to haue ſtylled hy<g ref="char:cmbAbbrStroke">̄</g>. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the ſayd counteſſe abode all the daye by her thre chyl<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> / without ony meet or drynke for the dyſpleaſure that <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad of that another woman than ſhe had gyuen ſou<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her chylde. And after dyner the erle of Boulyon ledde <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he prynces / lordes / and barons afore named in to his <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ete chambre for to ſhewe vnto them his thre fayre ſo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap> Godfrey / Baudwyn / and Euſtace. And whan y<hi rend="sup">t</hi> they <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>e the noble counteſſe beſyde her thre chyldren they ſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> her and them ryght <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ely. And in lykewyſe on <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſyde ſhe receyued and feeſted them with her ſpeche as <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he as to her was poſſyble / and to the<g ref="char:cmbAbbrStroke">̄</g> ſhewed her. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>dren / but for to make them ony welcomynge ſhe wol<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ot ones aryſe. wherfore her huſbande the erle was ſo <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yſpl<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſed / but he conueyed eche of them to his lodgys <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>hout makynge ony ſemblaunt therof. Than h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> retour<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> agayne to her al angry for to blame her the<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſayd.</p>
+            </div>
+            <pb facs="tcp:25374:3"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
